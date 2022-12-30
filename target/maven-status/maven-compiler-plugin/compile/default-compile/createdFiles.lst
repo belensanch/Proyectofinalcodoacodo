@@ -1,0 +1,4 @@
+com\mycompany\web\models\Datos.class
+com\mycompany\web\servlets\VerServlet.class
+com\mycompany\web\models\Accionesdatos.class
+com\mycompany\web\servlets\InsertarServlet.class
